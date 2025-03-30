@@ -1,0 +1,14 @@
+huggingface-hub==0.19.4
+transformers==4.35.2
+sentence-transformers==2.2.2
+torch==2.1.0
+faiss-cpu==1.7.4
+pandas==2.0.3
+numpy==1.24.3
+beautifulsoup4==4.12.2
+tqdm==4.65.0
+python-dotenv==1.0.0
+scikit-learn==1.2.2
+jupyter==1.0.0
+matplotlib==3.7.1
+seaborn==0.12.2
